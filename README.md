@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/swarnimbagre.com-1C1712?style=flat-square)](https://swarnimbagre.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnim-bagre/)
 
-> I design and decide; the AI does the typing.
+![I design and decide. The AI does the typing. Don't know what I'm doing, installed Claude Code anyway.](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=D97757&vCenter=true&width=700&height=40&lines=I+design+and+decide.+The+AI+does+the+typing.;Don%27t+know+what+I%27m+doing%2C+installed+Claude+Code+anyway.)
 
 By day I help build gaming things at Alienware — product strategy and market intelligence (read: Excel and PowerPoint), now shifting into AI transformation. By night I tinker with AI to scratch my own itches.
 
