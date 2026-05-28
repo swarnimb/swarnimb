@@ -1,7 +1,5 @@
 # Hey, I'm Swarnim
 
----
-
 > **By day** — product strategy and market intelligence at Alienware (read: Excel and PowerPoint), now shifting into AI transformation.
 >
 > **By night** — tinker with AI to scratch my own itches.
