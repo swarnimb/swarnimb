@@ -2,15 +2,24 @@
 
 [![Website](https://img.shields.io/badge/swarnimbagre.com-1C1712?style=flat-square)](https://swarnimbagre.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnim-bagre/)
 
+> I design and decide; the AI does the typing.
+
 By day I help build gaming things at Alienware — product strategy and market intelligence (read: Excel and PowerPoint), now shifting into AI transformation. By night I tinker with AI to scratch my own itches.
 
 The two are starting to blur.
 
-Not a developer or a coder. I got into this after watching a friend get way too excited about a cooking app he'd built; didn't understand a word of it, installed Claude Code anyway, and started figuring it out by breaking things. Turns out the technical part was the excuse, not the obstacle.
+Not a developer or a coder. I watched a friend get way too excited about a cooking app he'd built, didn't understand a word of it, installed Claude Code anyway, and figured it out by breaking things. Turns out the technical part was the excuse, not the obstacle.
 
-I design and decide; the AI does the typing. Somehow that's been enough to ship a few real things. Projects I have built range from "actually works" to "works on my machine."
+So far that's been enough to ship a few real things — ranging from "actually works" to "works on my machine."
 
-Next, I'm cooking an intelligent assistant that helps gamers prep their systems for gameplay (because I always mess up my own game settings), and a multi-agent debate system for decisions I'd otherwise overthink. Stay tuned.
+**Next up:**
+
+- An intelligent assistant that helps gamers prep their systems for gameplay (because I always mess up my own game settings).
+- A multi-agent debate system for decisions I'd otherwise overthink.
+
+Stay tuned.
+
+---
 
 ## What I build with
 
