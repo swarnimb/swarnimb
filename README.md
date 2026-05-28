@@ -2,7 +2,9 @@
 
 [![Website](https://img.shields.io/badge/swarnimbagre.com-1C1712?style=flat-square)](https://swarnimbagre.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnim-bagre/)
 
-By day I help build gaming things at Alienware — product strategy and market intelligence, which mostly means Excel and PowerPoint. By night I tinker with AI to scratch my own itches.
+By day I help build gaming things at Alienware — product strategy and market intelligence (read: Excel and PowerPoint), now shifting into AI transformation. By night I tinker with AI to scratch my own itches.
+
+The two are starting to blur.
 
 Not a developer or a coder. I got into this after watching a friend get way too excited about a cooking app he'd built; didn't understand a word of it, installed Claude Code anyway, and started figuring it out by breaking things. Turns out the technical part was the excuse, not the obstacle.
 
