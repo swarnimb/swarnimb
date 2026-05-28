@@ -6,14 +6,12 @@
 >
 > The two are starting to blur.
 
-Not a developer or a coder. I installed Claude Code on a whim and figuring it out by breaking things; turns out the technical part was the excuse, not the obstacle. So far that's been enough to ship a few real things — some 'actually work' and some 'work on my machine.'
+Not a developer or a coder. Installed Claude Code on a whim and figuring it out by breaking things; turns out the technical part was the excuse, not the obstacle. So far that's been enough to ship a few real things — some 'actually work' and some 'work on my machine.'
 
 **Next up**
 
 - A gamer system-prep assistant (because I always mess up my own game settings)
 - A multi-agent debate system for decisions I'd otherwise overthink
-
----
 
 ## What I build with
 
