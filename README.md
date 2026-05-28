@@ -1,8 +1,10 @@
 # Hey, I'm Swarnim
 
-**By day** — product strategy and market intelligence at Alienware (read: Excel and PowerPoint), now shifting into AI transformation.
-
-**By night** — I tinker with AI to scratch my own itches.<br>The two are starting to blur.
+> **By day** — product strategy and market intelligence at Alienware (read: Excel and PowerPoint), now shifting into AI transformation.
+>
+> **By night** — I tinker with AI to scratch my own itches.
+>
+> The two are starting to blur.
 
 Not a developer or a coder. I installed Claude Code on a whim and figuring it out by breaking things; turns out the technical part was the excuse, not the obstacle. So far that's been enough to ship a few real things — some 'actually work' and some 'work on my machine.'
 
