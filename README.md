@@ -1,23 +1,15 @@
 # Hey, I'm Swarnim
 
-> I design and decide. The AI does the typing.
->
-> Don't know what I'm doing, installed Claude Code anyway.
+**By day** — product strategy and market intelligence at Alienware (read: Excel and PowerPoint), now shifting into AI transformation.
 
-By day I help build gaming things at Alienware — product strategy and market intelligence (read: Excel and PowerPoint), now shifting into AI transformation. By night I tinker with AI to scratch my own itches.
+**By night** — I tinker with AI to scratch my own itches.<br>The two are starting to blur.
 
-The two are starting to blur.
+Not a developer or a coder. I installed Claude Code on a whim and figuring it out by breaking things; turns out the technical part was the excuse, not the obstacle. So far that's been enough to ship a few real things — some 'actually work' and some 'work on my machine.'
 
-Not a developer or a coder. I watched a friend get way too excited about a cooking app he'd built, didn't understand a word of it, installed Claude Code anyway, and figured it out by breaking things. Turns out the technical part was the excuse, not the obstacle.
+**Next up**
 
-So far that's been enough to ship a few real things — ranging from "actually works" to "works on my machine."
-
-**Next up:**
-
-- An intelligent assistant that helps gamers prep their systems for gameplay (because I always mess up my own game settings).
-- A multi-agent debate system for decisions I'd otherwise overthink.
-
-Stay tuned.
+- A gamer system-prep assistant (because I always mess up my own game settings)
+- A multi-agent debate system for decisions I'd otherwise overthink
 
 ---
 
